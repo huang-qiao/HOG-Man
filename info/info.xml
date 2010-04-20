@@ -91,7 +91,7 @@
 				<url>http://www.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10icra.pdf</url>
 	</paper>
 
-	<license>HOG-Man is licenced under GPL.</license>
+	<license>HOG-Man is licenced under LGPL v.3 </license>
 
 	<furthermore>
 	C++ code, well-coded, compact, efficient. Requires CSparse.
