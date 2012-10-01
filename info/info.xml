@@ -94,7 +94,7 @@
 	<license>HOG-Man is licenced under LGPL v.3 </license>
 
 	<furthermore>
-	C++ code, well-coded, compact, efficient. Requires CSparse.
+	C++ code, well-coded, compact, efficient. Requires CSparse, QT and QGLViwer
 	</furthermore>
 
 </project>
